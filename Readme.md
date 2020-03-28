@@ -3,4 +3,4 @@ This is an interactive gun shop management system which uses file handling and c
 
 # Note
 This program uses some header files which are now obsolete (like dos.h and graphics.h).
-Hence it runs only on DOSBox
+Hence it runs only on DOSBox.
