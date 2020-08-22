@@ -1,6 +1,9 @@
 # Gun Shop Management System
 This is an interactive gun shop management system which uses file handling and concepts of OOP to carry out purchases.
+It also includes some animations.
+The screenshots can be found in the respective folder.
 
-# Note
-This program uses some header files which are now obsolete (like dos.h and graphics.h).
+The original version was made on Turbo C++ and uses some header files which are now obsolete (like dos.h and graphics.h).
 Hence it runs only on DOSBox.
+
+The linux version is modified to run on most of the widely used compiler programs especially the gnome terminal.
