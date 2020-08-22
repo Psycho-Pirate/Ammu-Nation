@@ -1,8 +1,8 @@
 ///////////////////////////////////////////////////////////////////
-//                      					 //
-//	A  Project on Gun Shop management system              	 //
-//					   By -: Prakhar Saxena	 //
-//								 //
+//                      					 					 //
+//			A Project on Gun Shop management system        	 	 //
+//							   By -: Prakhar Saxena	 			 //
+//																 //
 ///////////////////////////////////////////////////////////////////
 
 
