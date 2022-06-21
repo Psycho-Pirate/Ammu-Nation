@@ -1,7 +1,7 @@
-# Gun Shop Management System
+# Interactive Weapon Store
 ## Language: C++
 
-This is an interactive gun shop management system which uses file handling and concepts of OOP to carry out purchases.
+This is an interactive Weapon Store which uses file handling and concepts of OOP to carry out purchases.
 It also includes some animations.
 The screenshots can be found in the respective folder.
 
